@@ -1,6 +1,7 @@
-package kr.co.bullets.tmdbclientreview.data.repository.movie
+package kr.co.bullets.tmdbclientreview.data.repository.movie.datasourceImpl
 
 import kr.co.bullets.tmdbclientreview.data.model.movie.Movie
+import kr.co.bullets.tmdbclientreview.data.repository.movie.datasource.MovieCacheDatasource
 
 class MovieCacheDatasourceImpl : MovieCacheDatasource {
     // we will create an ArrayList of movie instances

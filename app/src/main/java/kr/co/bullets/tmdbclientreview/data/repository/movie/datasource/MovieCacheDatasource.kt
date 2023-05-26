@@ -1,4 +1,4 @@
-package kr.co.bullets.tmdbclientreview.data.repository.movie
+package kr.co.bullets.tmdbclientreview.data.repository.movie.datasource
 
 import kr.co.bullets.tmdbclientreview.data.model.movie.Movie
 
