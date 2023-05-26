@@ -1,4 +1,4 @@
-package kr.co.bullets.tmdbclientreview.data
+package kr.co.bullets.tmdbclientreview.data.model.artist
 
 
 import com.google.gson.annotations.SerializedName

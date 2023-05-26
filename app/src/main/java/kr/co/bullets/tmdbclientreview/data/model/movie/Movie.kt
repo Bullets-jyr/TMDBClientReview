@@ -1,9 +1,13 @@
-package kr.co.bullets.tmdbclientreview.data
+package kr.co.bullets.tmdbclientreview.data.model.movie
 
 
+import androidx.room.Entity
+import androidx.room.PrimaryKey
 import com.google.gson.annotations.SerializedName
 
+@Entity(tableName = "popular_movies")
 data class Movie(
+    @PrimaryKey
     @SerializedName("id")
     val id: Int,
     @SerializedName("overview")
