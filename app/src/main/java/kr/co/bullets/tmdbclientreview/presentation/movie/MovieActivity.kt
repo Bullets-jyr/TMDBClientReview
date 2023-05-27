@@ -15,7 +15,6 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import kr.co.bullets.tmdbclientreview.R
 import kr.co.bullets.tmdbclientreview.databinding.ActivityMovieBinding
 import kr.co.bullets.tmdbclientreview.presentation.di.Injector
-import kr.co.bullets.tmdbclientreview.presentation.di.movie.MovieAdapter
 import javax.inject.Inject
 
 class MovieActivity : AppCompatActivity() {

@@ -1,4 +1,4 @@
-package kr.co.bullets.tmdbclientreview.presentation.di.movie
+package kr.co.bullets.tmdbclientreview.presentation.movie
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
